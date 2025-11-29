@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The coursework and projects in College of CSEE, HNU.
+The coursework and projects in College of Computer Science and Electronic Engineering (CSEE), Hunan University (HNU).
 
 ## Copyrights
 
