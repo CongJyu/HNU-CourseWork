@@ -3,9 +3,13 @@
 *.idea
 
 # Fortran
-*/build
-*/cmake-build-debug
+*build/
+*cmake-build-debug/
 
 # Python
-*.venv
-*/venv
+*.venv/
+*/venv/
+
+# C++
+*build/
+*cmake-build-debug/
