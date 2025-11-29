@@ -5,3 +5,7 @@
 # Fortran
 */build
 */cmake-build-debug
+
+# Python
+*.venv
+*/venv
